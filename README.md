@@ -16,7 +16,7 @@ cat << 'EOF' > README.md
 
 ## 🎥 Demo
 <p align="center">
-  <img src="demo.gif" alt="Onboarding Demo" width="400">
+  <img src="demo.gif" alt="Onboarding Demo" width="600">
 </p>
 
 ---
